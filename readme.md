@@ -1,2 +1,3 @@
+- To create project: npm install
 - To build project: npm run build
 - To start server: npm run start
